@@ -1,4 +1,4 @@
 <?php
     echo "LINEBOT by";
-    echo "Mr.Kant Charoenjt";
+    echo "Mr.Anucha Ngamying";
 ?>
